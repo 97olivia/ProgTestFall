@@ -1,0 +1,2 @@
+var = "Hejsan!"
+print(var)
